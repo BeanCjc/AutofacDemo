@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp2.2\AutofacDemo.deps.json
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp2.2\AutofacDemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp2.2\AutofacDemo.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp2.2\AutofacDemo.dll
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\bin\Debug\netcoreapp2.2\AutofacDemo.pdb
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.dll
+C:\Users\Administrator\source\repos\AutofacDemo\AutofacDemo\obj\Debug\netcoreapp2.2\AutofacDemo.pdb
